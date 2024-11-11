@@ -80,7 +80,7 @@ print("The Standard deviation of arrival from feeder is %.3F "%SD)
 
 # Output : 
 ````
-https://github.com/Prakash-Chandran/Mean-and-Variance/assets/147120899/2acf6efc-3cd8-408a-b283-84000972f7cb
+![Screenshot 2024-11-11 122420](https://github.com/user-attachments/assets/b1cdc59d-f73b-40d4-9590-dc6fae73e654)
 
 ````
 
